@@ -6,7 +6,7 @@ int main()
 {
     int seq = 1000, a = 0,  b = 1, proxSeq = 0, atual = 0, num = 0;
 
-    cout << "Escolhe um numero: ";
+    cout << "Escolha um numero: ";
     cin >> num;
     
     if (num < 0)
